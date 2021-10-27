@@ -9,7 +9,9 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Cesarau9&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
 
 </div>
+<p align="left">
   💌 Deseja falar comigo? é só mandar mensagem nas redes sociais abaixo.⤵️
+  </p>
 
 
   <div>
