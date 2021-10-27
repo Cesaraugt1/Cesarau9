@@ -2,4 +2,4 @@
 
 
 - 🌱 Estudando front-end.
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
